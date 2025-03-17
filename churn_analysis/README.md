@@ -1,5 +1,5 @@
 ## [Анализ оттока водителей в компании такси](https://github.com/ElenaAnalyst/product_analytics/blob/main/churn_analysis/churn_analysis.ipynb)
-Ознакомиться с файлом решения тут (нажать) ⤴️
+Ознакомиться с файлом решения можно тут (нажать) ⤴️
 
 ### 🛠️ Стек:
 <div>
